@@ -1,5 +1,5 @@
 ## 👋 Hello, I'm Shyla!
-I'm currently studying MSc Statistics at Imperial College London and am a First Class graduate in BSc (Hons) Mathematics & Statistics from Queen Mary University of London.
+I'm currently studying MSc Statistics at Imperial College London and am a First Class graduate in BSc (Hons) Mathematics & Statistics from Queen Mary University of London🇬🇧.
 
 - ✨ I am particularly interested in the application of data, analytics, and quantitative methods to financial decision-making
 - 🌱 I also enjoy learning more about the intersection of statistical analysis and sustainability.
