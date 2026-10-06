@@ -9,7 +9,7 @@ Contact me or find out more through [Linkedin](https://www.linkedin.com/in/shyla
 <!---
 ShyJad/ShyJad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
 In my spare time, I enjoy hobbies such as hiking and playing sudoku.
 [Imperial MSc in Statistics](https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics/)
 ----
