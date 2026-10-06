@@ -12,3 +12,5 @@ You can click the Preview link to take a look at your changes.
 --->
 In my spare time, I enjoy hobbies such as hiking and playing sudoku.
 [Imperial MSc in Statistics](https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics/)
+----
+last updated: 06/10/2026
